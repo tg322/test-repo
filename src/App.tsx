@@ -12,7 +12,7 @@ function App() {
           test repo devs, second commit, checking cron job
           checking new deploy.sh file.
         </p>
-        <p>A live website test on dev branch.</p>
+        <p>A live website test on dev branch. :</p>
         <a
           className="App-link"
           href="https://reactjs.org"
