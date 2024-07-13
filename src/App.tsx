@@ -13,6 +13,7 @@ function App() {
           checking new deploy.sh file.
         </p>
         <p>A live website test on dev branch. :</p>
+        <p>Automated change test.</p>
         <a
           className="App-link"
           href="https://reactjs.org"
