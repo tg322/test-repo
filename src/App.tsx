@@ -10,8 +10,9 @@ function App() {
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
           test repo devs, second commit, checking cron job
-          checking new deploy.sh file
+          checking new deploy.sh file.
         </p>
+        <p>A live website test on dev branch</p>
         <a
           className="App-link"
           href="https://reactjs.org"
