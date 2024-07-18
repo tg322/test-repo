@@ -14,7 +14,7 @@ function App() {
         </p>
         <p>A live website test on dev branch. :</p>
         <p>Automated change test.</p>
-        <p>Automated change test 8</p>
+        <p>Automated change test 9</p>
         <a
           className="App-link"
           href="https://reactjs.org"
